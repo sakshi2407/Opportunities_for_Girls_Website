@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    justify-content: center;
+    padding: 3%;
+}
+.carousel slide{
+    box-shadow: 1px 1px 10px 5px;
+}
+.d-block{
+    height: 500px;
+}
+.text{
+    padding: 10%;
+}
